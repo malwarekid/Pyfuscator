@@ -26,7 +26,7 @@
     python3 Pyfuscator.py
     ```
 
-    ```
+```
     ____        ____                      __            
    / __ \__  __/ __/_  ________________ _/ /_____  _____
   / /_/ / / / / /_/ / / / ___/ ___/ __ `/ __/ __ \/ ___/
@@ -40,8 +40,7 @@ Enter your python code to obfuscate (leave empty for program path):
 Enter your python program path: hello.py
 Enter your obfuscated program name (default obfuscate.py): hello-obf.py
 Obfuscated program has been saved as hello-obf.py 
-
-    ```
+```
 
 3. **Enter Input Parameters:**
 
