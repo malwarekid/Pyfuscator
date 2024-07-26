@@ -12,6 +12,7 @@
 - **Base64 Encoding & XOR Encryption:** Utilizes base64 encoding combined with XOR encryption for added obfuscation.
 
 ## How to Use
+![Pyfuscator](https://github.com/user-attachments/assets/df9b9c1c-95c5-4fea-b85a-8e1dc475df92)
 
 1. **Clone the Repository:**
 
